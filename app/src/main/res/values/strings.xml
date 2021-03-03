@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">lab2.2</string>
+    <string name="mob">MobileNumber</string>
+    <string name="name">UserName</string>
+    <string name="send">send</string>
+    <string name="close">Close</string>
+    <string name="setsh">setsh</string>
+    <string name="getsh">getsh</string>
+    <string name="setfile">setfile</string>
+    <string name="getfile">getfile</string>
+    <string name="setsql">setsql</string>
+    <string name="getsql">getsql</string>
+</resources>
